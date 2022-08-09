@@ -1,19 +1,39 @@
-.navbar {
-    display: flex
+.hero {
+    display: flex;
     flex-direction: row;
+    justify-content: space-around;
+    background-color: #1F2937;
+    
+    
+    
+    
+    
 }
-.logo {
+    
+.logo{
     display: flex;
     width: 200px;
+    font-size: 24px;
+    color: #f9faf8;
+    font: bolder;
+    
     
 }
 
 .links {
     display: flex;
     justify-content: flex-end;
-    max-width: 500px;
+    width: 600px;
+    font-size: 18px;
+    gap: 10px;
+    color: #e5e7eb;
+    pe="text/css" charset="utf
+
+
+
+
+
     
-}    
     
 
 
