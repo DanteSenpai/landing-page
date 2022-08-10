@@ -26,8 +26,16 @@
     gap: 10px;
     color: #e5e7eb;
     font-weight:normal
-    
-    
+
+}
+
+.button-1 {
+  size: 30px;
+}
+
+.button-18 {
+  size: 30px;
+
 }
 
 .header2 {
@@ -39,6 +47,7 @@
     
     
 }
+
 
 
 .image-holder {
@@ -94,7 +103,6 @@
 
 .illustrations {
   display: flex;
-  flex-direction: row;
   margin-left: 100px;
   height: 500px;
   width: 1600px;
@@ -103,12 +111,11 @@
 
 .img {
   display: flex;
-  flex-direction: row;
   height: 250px;
   width: 300px;
   margin: 60px;
+  border-radius: 25px;
   
-
 }
 
 .bot-container{
@@ -170,13 +177,6 @@
 
 
 
-
-
-
-
-
-
-
 .button-18 {
   align-items: center;
   background-color: #0A66C2;
@@ -184,7 +184,6 @@
   border-radius: 100px;
   box-sizing: border-box;
   color: #ffffff;
-  cur5.t-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
   font-size: 16px;
   font-weight: 600;
   justify-content: center;
